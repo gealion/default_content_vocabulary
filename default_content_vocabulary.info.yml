@@ -1,0 +1,7 @@
+name: default_content_vocabulary
+type: module
+description: Export all terms of Vocabulary 
+core: 8.x
+package: Custom
+dependencies:
+  - default_content
